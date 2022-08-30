@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adpater/Adpater.iml" filepath="$PROJECT_DIR$/Adpater/Adpater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/Bridge/Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/ChainOfResponsibility/ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dip/Dip.iml" filepath="$PROJECT_DIR$/Dip/Dip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Isp/Isp.iml" filepath="$PROJECT_DIR$/Isp/Isp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lsp/Lsp.iml" filepath="$PROJECT_DIR$/Lsp/Lsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ocp/Ocp.iml" filepath="$PROJECT_DIR$/Ocp/Ocp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Padrões de Projeto.iml" filepath="$PROJECT_DIR$/.idea/Padrões de Projeto.iml" />
+    </modules>
+  </component>
+</project>
